@@ -1,0 +1,10 @@
+.idea
+_pycache_
+dev
+Include
+Lib
+Scripts
+venv
+database.csv
+database.txt
+pyvenv.cfg
